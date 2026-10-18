@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Sagar-Singh-Data/Sagar-Singh-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sagar Singh 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Data Analyst passionate about using data
+to solve business problems and generate meaningful insights.
+
+## 🛠️ Skills
+- Python
+- SQL
+- Power BI
+- Pandas
+- Data Cleaning
+- Data Visualization
+
+## 📊 My Projects
+- **E-commerce Sales Analysis:** Analyzing sales trends using Python, Pandas, and Plotly.
+- **Sales Dashboard:** Visualizing sales performance using Power BI.
+- **SQL Sales Analysis:** Practicing queries, joins, and sales calculations using SQL Server.
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Exploratory Data Analysis
+- Data Analytics and Business Intelligence
+
+## 🤝 Connect With Me
+- LinkedIn:www.linkedin.com/in/
+sagar-singh-0933bb441
+
